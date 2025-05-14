@@ -1,17 +1,3 @@
-# Supply Chain App
-
-A web application for managing and visualizing supply chain operations.
-
-## Features
-
-- Inventory tracking  
-- Supplier management  
-- Order processing  
-- Data visualization  
-- User authentication
-
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v16+ recommended)  
